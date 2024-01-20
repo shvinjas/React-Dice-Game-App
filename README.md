@@ -32,13 +32,13 @@ Include a link to a live demo or provide instructions on how to access a deploye
    ```bash
    git clone https://github.com/shvinjas/react-dice-game.git
    
-##Usage
+## Usage
 
 Start the development server:
 npm start
 Open your browser and navigate to http://localhost:3000 to play the game.
 
-##Rules
+## Rules
 
 How to play dice game
 
